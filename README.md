@@ -61,7 +61,7 @@ node main.js
 
 | Comando | Descrição                                  |
 | ------- | ------------------------------------------ |
-| `/ping` | Responde com `"Pong!"` e tempo de resposta |
+| `/ping` | Responde retornando o ping atual do bot. |
 
 > Você pode adicionar novos **Slash Commands** seguindo a mesma lógica.
 
